@@ -1,0 +1,16 @@
+{
+  "name": "jsprofes",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "live-server"
+  },
+  "keywords": [],
+  "author": "Helard Rivera <markcomred@gmail.com>",
+  "license": "MIT",
+  "description": "",
+  "devDependencies": {
+    "live-server": "^1.2.1"
+  }
+}
